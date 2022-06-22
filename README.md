@@ -21,8 +21,14 @@ SynergyAutoLoggof is a Windows application that automatically logs off the user 
 ## **Pros**
 
 Free
+
+
 Simple to use
+
+
 No installation needed
+
+
 Will not forget to log off
 
 
