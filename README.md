@@ -39,3 +39,4 @@ Will not forget to log off
 
 *Run As Administrator* SynergyAutoLogOffInstallForAllUsers.exe
 
+![Snag_10aaa0d](https://user-images.githubusercontent.com/94911727/175086811-5a95b76a-e7bb-4160-9b5b-f38c6c7ae3af.png)
