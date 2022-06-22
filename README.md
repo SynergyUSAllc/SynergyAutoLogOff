@@ -48,7 +48,7 @@ You can set after how many minutes of inactivity you want to log off by editing 
 
 ![Snag_10cad4f](https://user-images.githubusercontent.com/94911727/175087672-3b68454d-983b-4d63-93f5-0387fd4a586b.png)
 
-Change the number as shown in the image below
+Change the number as shown in the image below and save
 
 ![Snag_10cfd25](https://user-images.githubusercontent.com/94911727/175087802-03fcfcfb-e757-4008-8ca3-fb619cee6e2c.png)
 
