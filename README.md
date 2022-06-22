@@ -31,5 +31,5 @@ Will not forget to log off
 **All the files you need are in the _BuiltFiles folder**
 
 
-*Run As Administrator* the SynergyAutoLogOffInstallForAllUsers.exe
+*Run As Administrator* SynergyAutoLogOffInstallForAllUsers.exe
 
