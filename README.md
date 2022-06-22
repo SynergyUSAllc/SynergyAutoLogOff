@@ -40,3 +40,17 @@ Will not forget to log off
 *Run As Administrator* SynergyAutoLogOffInstallForAllUsers.exe
 
 ![Snag_10aaa0d](https://user-images.githubusercontent.com/94911727/175086811-5a95b76a-e7bb-4160-9b5b-f38c6c7ae3af.png)
+
+
+![Snag_10c06af](https://user-images.githubusercontent.com/94911727/175087360-5d6199c1-0087-4595-a4f9-69cd10e2898d.png)
+
+You can set after how many minutes of inactivity you want to log off by editing the Time.xml file
+
+![Snag_10cad4f](https://user-images.githubusercontent.com/94911727/175087672-3b68454d-983b-4d63-93f5-0387fd4a586b.png)
+
+Change the number as shown in the image below
+
+![Snag_10cfd25](https://user-images.githubusercontent.com/94911727/175087802-03fcfcfb-e757-4008-8ca3-fb619cee6e2c.png)
+
+
+
