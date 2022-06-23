@@ -18,9 +18,9 @@ After the request of our clients, we created SynergyAutoLogOff.
 SynergyAutoLoggof is a Windows application that automatically logs off the user after a period of inactivity offering one more security measure, by logging you off all saved credentials are removed, this application is running in the background every time you turn on your computer or log in to a windows users profile, and ensures that you will never forget to log off. 
 
 
-## **Pros**
+## **Benefits**
 
-Free
+Free and Open Source
 
 
 Simple to use
@@ -29,7 +29,7 @@ Simple to use
 No installation needed
 
 
-Will not forget to log off
+There is built version for those in a hurry. Checked by VirusTotal for malware.
 
 
 ## **How To Use**
