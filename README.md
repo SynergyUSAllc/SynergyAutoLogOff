@@ -29,7 +29,7 @@ Simple to use
 No installation needed
 
 
-There is built version for those in a hurry. Checked by VirusTotal for malware.
+There is also a built version for those in a hurry. Checked by VirusTotal for malware.
 
 
 ## **How To Use**
