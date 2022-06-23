@@ -54,3 +54,6 @@ Change the number as shown in the image below and save the file
 
 
 
+SynergyAutoLogOff was checked by VirusTotal and was found clean from malware. Visit the link below for further details:
+https://www.virustotal.com/gui/file/473d4526027a12fbf6248ec2ec65bd85df2be440202208680cbb944556eb52dc?nocache=1
+
