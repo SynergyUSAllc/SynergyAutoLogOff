@@ -37,7 +37,7 @@ There is also a built version for those in a hurry. Checked by VirusTotal for ma
 **All the files you need are in the _BuiltFiles folder**
 
 
-*Run As Administrator* SynergyAutoLogOffInstallForAllUsers.exe
+In order to install SynergyAutoLogOff *Run As Administrator* SynergyAutoLogOffInstallForAllUsers.exe
 
 ![Snag_10aaa0d](https://user-images.githubusercontent.com/94911727/175086811-5a95b76a-e7bb-4160-9b5b-f38c6c7ae3af.png)
 
