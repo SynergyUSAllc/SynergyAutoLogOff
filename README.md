@@ -44,7 +44,7 @@ In order to install SynergyAutoLogOff *Run As Administrator* SynergyAutoLogOffIn
 
 ![Snag_10c06af](https://user-images.githubusercontent.com/94911727/175087360-5d6199c1-0087-4595-a4f9-69cd10e2898d.png)
 
-You can set after how many minutes of inactivity you want to log off by editing the Time.xml file
+In order to set the minutes of inactivity you want to log off edit Time.xml file
 
 ![Snag_10cad4f](https://user-images.githubusercontent.com/94911727/175087672-3b68454d-983b-4d63-93f5-0387fd4a586b.png)
 
