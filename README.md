@@ -38,7 +38,7 @@ There is also a built version for those in a hurry. Checked by VirusTotal for ma
 
 
 In order to install SynergyAutoLogOff *Run As Administrator* SynergyAutoLogOffInstallForAllUsers.exe
-Also make sure to add a new schedule task to run this application every time the Administrator logss on.
+Also make sure to add a new schedule task to run this application every time the Administrator logs on.
 
 ![Snag_10aaa0d](https://user-images.githubusercontent.com/94911727/175086811-5a95b76a-e7bb-4160-9b5b-f38c6c7ae3af.png)
 
